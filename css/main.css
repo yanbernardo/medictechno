@@ -1,0 +1,68 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0% auto;
+}
+ul {
+    padding: 0px;
+}
+
+.pagina-principal {
+    width: 100%;
+    background-color: #284243;
+    height: 100px;
+}
+
+main {
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+
+.logo {
+    padding-left: 20px;
+    width: 90%;
+}
+
+.header-2 {
+    background-color: #425c5c;
+    width: 980px;
+    margin: 0% auto;
+}
+.menu-urls {
+    height: 80px;
+    background-color: #425c5c;
+    border-bottom: 4px solid #506666
+}
+
+.menu ul li{
+    display: inline-block;
+    margin-left: 12px;
+}
+
+.menu ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    
+}
+
+.menu {
+    width: 70%;
+    float: left;
+
+}
+
+.busca {
+    width: 30%;
+    float: right;
+}
+.busca input{
+    margin-top: 10px;
+}
+.col-100 {
+    width: 100%;
+    float: left;
+    position:relative
+}
