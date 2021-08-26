@@ -57,10 +57,14 @@ main {
 .busca {
     width: 30%;
     float: right;
-}
-.busca input{
     margin-top: 10px;
 }
+.lupa{
+    position:absolute;
+    right: 27%;
+    padding-top: 4px;
+    
+} 
 .col-100 {
     width: 100%;
     float: left;
