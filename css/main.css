@@ -20,6 +20,7 @@ main {
 }
 
 .logo {
+    border-top: 5px;
     padding-left: 20px;
     width: 90%;
 }
@@ -30,7 +31,7 @@ main {
     margin: 0% auto;
 }
 .menu-urls {
-    height: 80px;
+    height: 50px;
     background-color: #425c5c;
     border-bottom: 4px solid #506666
 }
@@ -69,4 +70,8 @@ main {
     width: 100%;
     float: left;
     position:relative
+}
+
+.icon {
+    margin-top: 8px;
 }
